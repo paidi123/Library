@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ModernUICharts.WPF.Beta</id>
+    <version>0.9.1</version>
+    <title>Modern UI (Metro) Charts in WPF (Beta)</title>
+    <authors>Torsten Mandelkow</authors>
+    <owners>Torsten Mandelkow</owners>
+    <projectUrl>https://github.com/CompleteBrains/ModernCharts</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/modernuicharts.wpf.beta/0.9.1/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Last version (Beta) of Torsten's Mandelkow library: new charts (Doughnut, Radial Gauge), improved test applications, several bug fixes  and many more. 
+Released: 5 May 2013.</description>
+    <summary>Modern UI (Metro) Charts for WPF</summary>
+    <releaseNotes>New charts (Doughnut, Radial Gauge), improved test applications, several bug fixes  and many more. 
+Released: 5 May 2013.</releaseNotes>
+    <copyright>Torsten Mandelkow</copyright>
+    <tags>Charts WPF ModernUI Metro UI XAML Library .NET</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework="" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework="" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
